@@ -1,0 +1,21 @@
+Age Calculator
+
+
+1.  Print Welcome message for Age Calculator			//Console.Write 
+
+2.  Ask user for his/her year of Birth					//Console.Readline with variable 
+									string userinput -> int yearOfBirth
+
+3.  Calculate 
+
+	Age =  Current year - Year of Birth		//variable 
+
+		build a function name = int CalculateAge(yearOfBirth)
+
+			variables
+				int age
+				int currentYear
+				int yearOfBirth
+
+4.  Print out the Age							//Console.Write 
+		Your age is:  
